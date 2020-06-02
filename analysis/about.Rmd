@@ -11,40 +11,43 @@ editor_options:
 
 This review is a joint effort between the University of Bristol and Swansea University.
 
-![](figures/logo-full-colour.png)
+<img src="figures/logo-full-colour.png" alt="" width = "40%">          <img src="figures/swansea.jpg" alt="" width = "40%" height = "30%">
 
 
-## Participants
 
-David Gunnell, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
+<br>
 
-Ann John, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. A.john@swansea.ac.uk
+## Reviewers
 
-Julian PT Higgins, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. Julian.Higgins@bristol.ac.uk
+__David Gunnell__, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
 
-Emily Eyles, National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. emily.eyles@bristol.ac.uk
+__Ann John__, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. A.john@swansea.ac.uk
 
-Luke A McGuinness, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. luke.mcguinness@bristol.ac.uk
+__Julian PT Higgins__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. Julian.Higgins@bristol.ac.uk
 
-Chukwudi Okolie, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. C.o.okolie@swansea.ac.uk
+__Emily Eyles__, National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. emily.eyles@bristol.ac.uk
 
-Babatunde K Olorisade, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. b.k.olorisade@bristol.ac.uk
+__Luke A McGuinness__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. luke.mcguinness@bristol.ac.uk
 
-Lena Schmidt, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. lena.schmidt@bristol.ac.uk
+__Chukwudi Okolie__, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. C.o.okolie@swansea.ac.uk
 
-Roger T. Webb, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. roger.webb@manchester.ac.uk  
+__Babatunde K Olorisade__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. b.k.olorisade@bristol.ac.uk
 
-Ella Arensman, School of Public Health and National Suicide Research Foundation, University College Cork, Cork, Ireland. earensman@ucc.ie 
+__Lena Schmidt__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. lena.schmidt@bristol.ac.uk
 
-Keith Hawton, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford NHS Foundation Trust. keith.hawton@psych.ox.ac.uk 
+__Roger T. Webb__, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. roger.webb@manchester.ac.uk  
 
-Nav Kapur, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology & Mental Health, The University of Manchester and; Greater Manchester Mental Health NHS Foundation Trust, Manchester, UK. nav.kapur@manchester.ac.uk 
+__Ella Arensman__, School of Public Health and National Suicide Research Foundation, University College Cork, Cork, Ireland. earensman@ucc.ie 
 
-Paul Moran, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. paul.moran@bristol.ac.uk 
+__Keith Hawton__, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford NHS Foundation Trust. keith.hawton@psych.ox.ac.uk 
 
-Rory C O’Connor, Suicidal Behaviour Research Lab, Institute of Health & Wellbeing, University of Glasgow. Rory.OConnor@glasgow.ac.uk 
+__Nav Kapur__, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology & Mental Health, The University of Manchester and; Greater Manchester Mental Health NHS Foundation Trust, Manchester, UK. nav.kapur@manchester.ac.uk 
 
-Siobhan O’Neill, School of Psychology, Ulster University. sm.oneill@ulster.ac.uk 
+__Paul Moran__, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. paul.moran@bristol.ac.uk 
+
+__Rory C O’Connor__, Suicidal Behaviour Research Lab, Institute of Health & Wellbeing, University of Glasgow. Rory.OConnor@glasgow.ac.uk 
+
+__Siobhan O’Neill__, School of Psychology, Ulster University. sm.oneill@ulster.ac.uk 
 
 
 
