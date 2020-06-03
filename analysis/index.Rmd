@@ -18,3 +18,7 @@ Regular automated searches will feed into a web-based screening system which wil
 
 Please see the ["Results"](results.html) tab to view a summary of the current evidence.
 
+
+
+<img src="figures/all_unis.png" alt="" width = "65%">
+
