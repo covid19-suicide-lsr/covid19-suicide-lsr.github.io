@@ -20,5 +20,5 @@ Please see the ["Results"](results.html) tab to view a summary of the current ev
 
 
 
-<img src="figures/all_unis.png" alt="" width = "65%">
+<img src="figures/all_unis.png" alt="" width = "66%">
 
