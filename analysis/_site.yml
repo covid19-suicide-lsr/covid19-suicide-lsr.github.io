@@ -9,6 +9,8 @@ navbar:
     href: results.html
   - text: About
     href: about.html
+  - text: Publications
+    href: publications.html
 output:
   workflowr::wflow_html:
     toc: yes

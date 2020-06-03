@@ -1,0 +1,31 @@
+---
+title: "publications"
+author: "L-ENA"
+date: "2020-06-03"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Publication of our living systematic review
+The review was registered prospectively on PROSPERO on May 1st 2020: [CRD42020183326](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=183326)
+
+Cite as: Ann John, David Gunnell, Julian Higgins, Emily Eyles, Luke McGuinness, Chukwudi Okolie, Kazeem Olorisade, Lena Schmidt. The impact of the Covid-19 pandemic on self-harm and suicidal behaviour: a living systematic review. PROSPERO 2020 CRD42020183326. Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020183326
+
+The review protocol will be published via F1000 research soon: [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: protocol for a living systematic review](https://f1000research.com/)
+
+Cite as: ... 
+
+The code for out screening and literature retrieval application is available from [mcguinlu's GitHub repository](https://github.com/mcguinlu/COVID_suicide_living) or as release on [zenodo](https://zenodo.org/record/3871366#.XteMf-fTU2w)
+
+Cite as: Luke McGuinness and Lena Schmidt. mcguinlu/COVID_suicide_living: Initial Release (Version v1.0.0). Zenodo 2020. Available from: http://doi.org/10.5281/zenodo.3871366
+
+## Related research for Covid-19 and impacts on mental health
+
+This section will give an overview of related relevant research and links to the respective projects.
+
+
+```{r}
+
+```
+
