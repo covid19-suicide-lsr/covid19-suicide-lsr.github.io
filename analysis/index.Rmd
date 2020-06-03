@@ -16,5 +16,5 @@ The COVID-19 pandemic has caused widespread morbidity and mortality as well as d
 
 Regular automated searches will feed into a web-based screening system which will also host the data extraction form for included articles. Our eligibility criteria are wide and include aspects of incidence and prevalence of suicidal behaviour, effects of exposures and effects of interventions in relation to the COVID-19 pandemic, with minimal restrictions on the types of study design to be included. The outcomes assessed will be death by suicide; self-harm or attempted suicide (including hospital attendance and/or admission for these reasons); and suicidal thoughts/ideation. There will be no restriction on study type, except for single case reports. There will be no restriction on language of publication. The review will be updated at three-monthly intervals if a sufficient volume of new evidence justifies doing so.
 
-Please see the ["Results"](results.html) tab for a summary of the current evidence.
+Please see the ["Results"](results.html) tab to view a summary of the current evidence.
 
