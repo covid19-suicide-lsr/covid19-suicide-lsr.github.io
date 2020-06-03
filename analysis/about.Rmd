@@ -9,21 +9,22 @@ editor_options:
 
 ## The team
 
-This review is a joint effort between the University of Bristol and Swansea University.
+The review is jointly lead by researchers from the University of Bristol and Swansea University. It is a collaborative effort involving colleagues from the Universities of Cork, Oxford, Manchester, Glasgow, and Ulster.
 
 <img src="figures/logo-full-colour.png" alt="" width = "40%">          <img src="figures/swansea.jpg" alt="" width = "40%" height = "30%">
-
+<img src="figures/colab_unis.png" alt="" width = "80%">
 
 
 <br>
 
-## Reviewers
+## The review team
 
-__David Gunnell__, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
+__David Gunnell__*, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
 
-__Ann John__, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. A.john@swansea.ac.uk
+__Ann John__*, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. A.john@swansea.ac.uk
 
-__Julian PT Higgins__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. Julian.Higgins@bristol.ac.uk
+__Julian PT Higgins__*, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. Julian.Higgins@bristol.ac.uk
+
 
 __Emily Eyles__, National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. emily.eyles@bristol.ac.uk
 
@@ -49,5 +50,5 @@ __Rory C O’Connor__, Suicidal Behaviour Research Lab, Institute of Health & We
 
 __Siobhan O’Neill__, School of Psychology, Ulster University. sm.oneill@ulster.ac.uk 
 
-
+*<font size="2" color="grey">co-leads for the project</font>
 
