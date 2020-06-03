@@ -7,8 +7,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## The team
-
 The review is jointly lead by researchers from the University of Bristol and Swansea University. It is a collaborative effort involving colleagues from the Universities of Cork, Oxford, Manchester, Glasgow, and Ulster.
 
 <img src="figures/logo-full-colour.png" alt="" width = "40%">          <img src="figures/swansea.jpg" alt="" width = "40%" height = "30%">
