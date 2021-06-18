@@ -7,5 +7,20 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Holding page for results
+## Abstract for the updated living review
+
+The latest living review update was published on June 18, 2021 via F1000 research: [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review (version 2; peer review: 1 approved, 2 approved with reservations)](https://f1000research.com/articles/9-1097). Please cite as:
+
+> <font size="2" color="gray">Ann John, Emily Eyles, Roger T. Webb, Chukwudi Okolie, Lena Schmidt, Ella Arensman, Keith Hawton, Rory C. O'Connor, Nav Kapur, Paul Moran, Siobhan O'Neill, Luke A. McGuinness, Babatunde K. Olorisade, Dana Dekel, Catherine Macleod-Hall, Hung-Yuan Cheng, Julian P.T. Higgins, David Gunnell. The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review [version 2; peer review: 1 approved, 2 approved with reservations]. F1000Research 2021, 9:1097 (https://doi.org/10.12688/f1000research.25522.2) 
+</font> 
+
+
+Background: The COVID-19 pandemic has caused considerable morbidity, mortality and disruption to people’s lives around the world. There are concerns that rates of suicide and suicidal behaviour may rise during and in its aftermath. Our living systematic review synthesises findings from emerging literature on incidence and prevalence of suicidal behaviour as well as suicide prevention efforts in relation to COVID-19, with this iteration synthesising relevant evidence up to 19th October 2020.
+
+Method:  Automated daily searches feed into a web-based database with screening and data extraction functionalities. Eligibility criteria include incidence/prevalence of suicidal behaviour, exposure-outcome relationships and effects of interventions in relation to the COVID-19 pandemic. Outcomes of interest are suicide, self-harm or attempted suicide and suicidal thoughts. No restrictions are placed on language or study type, except for single-person case reports. We exclude one-off cross-sectional studies without either pre-pandemic measures or comparisons of COVID-19 positive vs. unaffected individuals.
+
+Results: Searches identified 6,226 articles. Seventy-eight articles met our inclusion criteria. We identified a further 64 relevant cross-sectional studies that did not meet our revised inclusion criteria. Thirty-four articles were not peer-reviewed (e.g. research letters, pre-prints). All articles were based on observational studies.
+There was no consistent evidence of a rise in suicide but many studies noted adverse economic effects were evolving. There was evidence of a rise in community distress, fall in hospital presentation for suicidal behaviour and early evidence of an increased frequency of suicidal thoughts in those who had become infected with COVID-19.
+
+Conclusions:  Research evidence of the impact of COVID-19 on suicidal behaviour is accumulating rapidly. This living review provides a regular synthesis of the most up-to-date research evidence to guide public health and clinical policy to mitigate the impact of COVID-19 on suicide risk as the longer term impacts of the pandemic on suicide risk are researched. 
 

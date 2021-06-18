@@ -8,14 +8,20 @@ editor_options:
 ---
 
 ## Publication of our living systematic review
+
+The latest living review update was published on June 18, 2021 via F1000 research. This updated version replaced the previous versions of this living review: [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review (version 2; peer review: 1 approved, 2 approved with reservations)](https://f1000research.com/articles/9-1097). Please cite as:
+
+> <font size="2" color="gray">Ann John, Emily Eyles, Roger T. Webb, Chukwudi Okolie, Lena Schmidt, Ella Arensman, Keith Hawton, Rory C. O'Connor, Nav Kapur, Paul Moran, Siobhan O'Neill, Luke A. McGuinness, Babatunde K. Olorisade, Dana Dekel, Catherine Macleod-Hall, Hung-Yuan Cheng, Julian P.T. Higgins, David Gunnell. The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review [version 2; peer review: 1 approved, 2 approved with reservations]. F1000Research 2021, 9:1097 (https://doi.org/10.12688/f1000research.25522.2) 
+</font> 
+
+
+The review protocol was published via F1000 research : [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: protocol for a living systematic review](https://f1000research.com/articles/9-644). Please cite as:
+
+> <font size="2" color="gray">John, A; Okolie, C; Eyles, E; Webb, RT; Schmidt, L; McGuiness, LA; Olorisade, BK; Arensman, E; Hawton, K; Kapur, N; Moran, P; O'Connor, RC; O'Neill, S; Higgins, JPT; Gunnell, D. The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: protocol for a living systematic review [version 1; peer review: 1 approved with reservations]. F1000Research 2020, 9:644 (https://doi.org/10.12688/f1000research.24274.1)</font> 
+
 The review was registered prospectively on PROSPERO on May 1st 2020 under [CRD42020183326](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=183326):
 
 > <font size="2" color="gray">Ann John, David Gunnell, Julian Higgins, Emily Eyles, Luke McGuinness, Chukwudi Okolie, Kazeem Olorisade, Lena Schmidt. The impact of the Covid-19 pandemic on self-harm and suicidal behaviour: a living systematic review. PROSPERO 2020 CRD42020183326. Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020183326</font>
-
-
-The review protocol will be published via F1000 research soon: [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: protocol for a living systematic review](https://f1000research.com/). Please cite as:
-
-> <font size="2" color="gray">...</font> 
 
 The code for out screening and literature retrieval application is available from [mcguinlu's GitHub repository](https://github.com/mcguinlu/COVID_suicide_living) or as release on [zenodo](https://zenodo.org/record/3871366#.XteMf-fTU2w). Please cite as:
 

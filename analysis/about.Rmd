@@ -23,28 +23,31 @@ Additionally, some researchers in our team are members of the International Covi
 
 ## The review team
 
-__David Gunnell__*, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
-
 __Ann John__*, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. A.john@swansea.ac.uk
+
+__David Gunnell__*, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. D.J.Gunnell@bristol.ac.uk
 
 __Julian PT Higgins__*, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. Julian.Higgins@bristol.ac.uk
 
-
 __Emily Eyles__, National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust,Bristol, UK. emily.eyles@bristol.ac.uk
 
+__Dana Dekel__, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK. dana.dekel@swansea.ac.uk
+
 __Luke A McGuinness__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. luke.mcguinness@bristol.ac.uk
+
+__Lena Schmidt__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; Sciome LLC, Research Triangle Park, NC, USA lena.schmidt@sciome.com
+
+__Hung-Yuan Cheng__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. vincent.cheng@bristol.ac.uk
+
+__Roger T. Webb__, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. roger.webb@manchester.ac.uk  
 
 __Chukwudi Okolie__, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. C.o.okolie@swansea.ac.uk
 
 __Babatunde K Olorisade__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. b.k.olorisade@bristol.ac.uk
 
-__Lena Schmidt__, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. lena.schmidt@bristol.ac.uk
-
-__Roger T. Webb__, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. roger.webb@manchester.ac.uk  
-
 __Ella Arensman__, School of Public Health and National Suicide Research Foundation, University College Cork, Cork, Ireland. earensman@ucc.ie 
 
-__Keith Hawton__, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford NHS Foundation Trust. keith.hawton@psych.ox.ac.uk 
+__Keith Hawton__, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford NHS Foundation Trust. keith.hawton@psych.ox.ac.uk
 
 __Nav Kapur__, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology & Mental Health, The University of Manchester and; Greater Manchester Mental Health NHS Foundation Trust, Manchester, UK. nav.kapur@manchester.ac.uk 
 
