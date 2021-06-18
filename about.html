@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -23,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 
 <link rel="icon" href="https://github.com/workflowr/workflowr-assets/raw/master/img/reproducible.png">
 <!-- Add a small amount of space between sections. -->
@@ -31,6 +32,15 @@ div.section {
   padding-top: 12px;
 }
 </style>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -240,6 +250,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -328,13 +339,13 @@ $(document).ready(function () {
 <div class="tab-content">
 <div id="summary" class="tab-pane fade in active">
 <p>
-<strong>Last updated:</strong> 2020-06-12
+<strong>Last updated:</strong> 2021-06-18
 </p>
 <p>
 <strong>Checks:</strong> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> 2 <span class="glyphicon glyphicon-exclamation-sign text-danger" aria-hidden="true"></span> 0
 </p>
 <p>
-<strong>Knit directory:</strong> <code>covid19-suicide-lsr.github.io2/</code> <span class="glyphicon glyphicon-question-sign" aria-hidden="true" title="This is the local directory in which the code in this file was executed."> </span>
+<strong>Knit directory:</strong> <code>covid19-suicide-lsr.github.io/</code> <span class="glyphicon glyphicon-question-sign" aria-hidden="true" title="This is the local directory in which the code in this file was executed."> </span>
 </p>
 <p>
 This reproducible <a href="http://rmarkdown.rstudio.com">R Markdown</a> analysis was created with <a
@@ -359,16 +370,16 @@ This reproducible <a href="http://rmarkdown.rstudio.com">R Markdown</a> analysis
 <div class="panel panel-default">
 <div class="panel-heading">
 <p class="panel-title">
-<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree96b43b8584cf9d3c90c84000dba2b928616a6fa3targetblank96b43b8a"> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> <strong>Repository version:</strong> <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/96b43b8584cf9d3c90c84000dba2b928616a6fa3" target="_blank">96b43b8</a> </a>
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree2d46708e85c9360300606b087c3f2a791fee177btargetblank2d46708a"> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> <strong>Repository version:</strong> <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/2d46708e85c9360300606b087c3f2a791fee177b" target="_blank">2d46708</a> </a>
 </p>
 </div>
-<div id="strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree96b43b8584cf9d3c90c84000dba2b928616a6fa3targetblank96b43b8a" class="panel-collapse collapse">
+<div id="strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree2d46708e85c9360300606b087c3f2a791fee177btargetblank2d46708a" class="panel-collapse collapse">
 <div class="panel-body">
 <p>
 Great! You are using Git for version control. Tracking code development and connecting the code version to the results is critical for reproducibility.
 </p>
 <p>
-The results in this page were generated with repository version <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/96b43b8584cf9d3c90c84000dba2b928616a6fa3" target="_blank">96b43b8</a>. See the <em>Past versions</em> tab to see a history of the changes made to the R Markdown and HTML files.
+The results in this page were generated with repository version <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/2d46708e85c9360300606b087c3f2a791fee177b" target="_blank">2d46708</a>. See the <em>Past versions</em> tab to see a history of the changes made to the R Markdown and HTML files.
 </p>
 <p>
 Note that you need to be careful to ensure that all relevant files for the analysis have been committed to Git prior to generating the results (you can use <code>wflow_publish</code> or <code>wflow_git_commit</code>). workflowr only checks the R Markdown file, but you know if there are other scripts or data files that it depends on. Below is the status of the Git repository when the results were generated:
@@ -412,6 +423,74 @@ Message
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+<a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/blob/2d46708e85c9360300606b087c3f2a791fee177b/analysis/about.Rmd" target="_blank">2d46708</a>
+</td>
+<td>
+Lena Schmidt
+</td>
+<td>
+2021-06-18
+</td>
+<td>
+Updated review publication
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/155276d24847cbac51cd5c58801dca519bb6f8a5/about.html" target="_blank">155276d</a>
+</td>
+<td>
+Kazeem Olorisade
+</td>
+<td>
+2020-06-16
+</td>
+<td>
+update oxford uni listing
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/20ebe97b815a554ffd97bf93ee8fcd6f9c3c9238/about.html" target="_blank">20ebe97</a>
+</td>
+<td>
+Kazeem Olorisade
+</td>
+<td>
+2020-06-15
+</td>
+<td>
+updated oxford health nhs
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/bb3cb99fd9f92f58a60e03dfc0d9f484323fecf7/about.html" target="_blank">bb3cb99</a>
+</td>
+<td>
+L-ENA
+</td>
+<td>
+2020-06-12
+</td>
+<td>
+Build site.
+</td>
+</tr>
 <tr>
 <td>
 Rmd
@@ -838,17 +917,19 @@ Inital commit
 </div>
 <div id="the-review-team" class="section level2">
 <h2>The review team</h2>
-<p><strong>David Gunnell</strong>*, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. <a href="mailto:D.J.Gunnell@bristol.ac.uk" class="email">D.J.Gunnell@bristol.ac.uk</a></p>
 <p><strong>Ann John</strong>*, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. <a href="mailto:A.john@swansea.ac.uk" class="email">A.john@swansea.ac.uk</a></p>
+<p><strong>David Gunnell</strong>*, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. <a href="mailto:D.J.Gunnell@bristol.ac.uk" class="email">D.J.Gunnell@bristol.ac.uk</a></p>
 <p><strong>Julian PT Higgins</strong>*, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust, UK. <a href="mailto:Julian.Higgins@bristol.ac.uk" class="email">Julian.Higgins@bristol.ac.uk</a></p>
 <p><strong>Emily Eyles</strong>, National Institute for Health Research Applied Research Collaboration West (NIHR ARC West) at University Hospitals Bristol NHS Foundation Trust,Bristol, UK. <a href="mailto:emily.eyles@bristol.ac.uk" class="email">emily.eyles@bristol.ac.uk</a></p>
+<p><strong>Dana Dekel</strong>, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK. <a href="mailto:dana.dekel@swansea.ac.uk" class="email">dana.dekel@swansea.ac.uk</a></p>
 <p><strong>Luke A McGuinness</strong>, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. <a href="mailto:luke.mcguinness@bristol.ac.uk" class="email">luke.mcguinness@bristol.ac.uk</a></p>
+<p><strong>Lena Schmidt</strong>, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK; Sciome LLC, Research Triangle Park, NC, USA <a href="mailto:lena.schmidt@sciome.com" class="email">lena.schmidt@sciome.com</a></p>
+<p><strong>Hung-Yuan Cheng</strong>, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. <a href="mailto:vincent.cheng@bristol.ac.uk" class="email">vincent.cheng@bristol.ac.uk</a></p>
+<p><strong>Roger T. Webb</strong>, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. <a href="mailto:roger.webb@manchester.ac.uk" class="email">roger.webb@manchester.ac.uk</a></p>
 <p><strong>Chukwudi Okolie</strong>, Population Psychiatry, Suicide and Informatics, Swansea University Medical School, Swansea University, Swansea, UK; Cochrane Satellite for Suicide and Self-harm Prevention; Public Health Wales NHS Trust. <a href="mailto:C.o.okolie@swansea.ac.uk" class="email">C.o.okolie@swansea.ac.uk</a></p>
 <p><strong>Babatunde K Olorisade</strong>, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. <a href="mailto:b.k.olorisade@bristol.ac.uk" class="email">b.k.olorisade@bristol.ac.uk</a></p>
-<p><strong>Lena Schmidt</strong>, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK. <a href="mailto:lena.schmidt@bristol.ac.uk" class="email">lena.schmidt@bristol.ac.uk</a></p>
-<p><strong>Roger T. Webb</strong>, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology and Mental Health, The University of Manchester, Manchester Academic Health Sciences Centre, Manchester, UK. <a href="mailto:roger.webb@manchester.ac.uk" class="email">roger.webb@manchester.ac.uk</a></p>
 <p><strong>Ella Arensman</strong>, School of Public Health and National Suicide Research Foundation, University College Cork, Cork, Ireland. <a href="mailto:earensman@ucc.ie" class="email">earensman@ucc.ie</a></p>
-<p><strong>Keith Hawton</strong>, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford Health NHS Foundation Trust. <a href="mailto:keith.hawton@psych.ox.ac.uk" class="email">keith.hawton@psych.ox.ac.uk</a></p>
+<p><strong>Keith Hawton</strong>, Centre for Suicide Research, University Department of Psychiatry, Oxford, UK.; Oxford NHS Foundation Trust. <a href="mailto:keith.hawton@psych.ox.ac.uk" class="email">keith.hawton@psych.ox.ac.uk</a></p>
 <p><strong>Nav Kapur</strong>, NIHR Greater Manchester Patient Safety Translational Research Centre; Division of Psychology &amp; Mental Health, The University of Manchester and; Greater Manchester Mental Health NHS Foundation Trust, Manchester, UK. <a href="mailto:nav.kapur@manchester.ac.uk" class="email">nav.kapur@manchester.ac.uk</a></p>
 <p><strong>Paul Moran</strong>, National Institute for Health Research Biomedical Research Centre, University Hospitals Bristol NHS Foundation Trust and University of Bristol, Bristol, UK; Population Health Sciences; Bristol Medical School; University of Bristol. <a href="mailto:paul.moran@bristol.ac.uk" class="email">paul.moran@bristol.ac.uk</a></p>
 <p><strong>Rory C O’Connor</strong>, Suicidal Behaviour Research Lab, Institute of Health &amp; Wellbeing, University of Glasgow, Glasgow, UK. <a href="mailto:Rory.OConnor@glasgow.ac.uk" class="email">Rory.OConnor@glasgow.ac.uk</a></p>
@@ -877,7 +958,7 @@ footer is added to webpages before the MathJax javascript. -->
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

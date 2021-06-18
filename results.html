@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -23,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 
 <link rel="icon" href="https://github.com/workflowr/workflowr-assets/raw/master/img/reproducible.png">
 <!-- Add a small amount of space between sections. -->
@@ -31,6 +32,15 @@ div.section {
   padding-top: 12px;
 }
 </style>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -240,6 +250,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -328,13 +339,13 @@ $(document).ready(function () {
 <div class="tab-content">
 <div id="summary" class="tab-pane fade in active">
 <p>
-<strong>Last updated:</strong> 2020-06-12
+<strong>Last updated:</strong> 2021-06-18
 </p>
 <p>
 <strong>Checks:</strong> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> 2 <span class="glyphicon glyphicon-exclamation-sign text-danger" aria-hidden="true"></span> 0
 </p>
 <p>
-<strong>Knit directory:</strong> <code>covid19-suicide-lsr.github.io2/</code> <span class="glyphicon glyphicon-question-sign" aria-hidden="true" title="This is the local directory in which the code in this file was executed."> </span>
+<strong>Knit directory:</strong> <code>covid19-suicide-lsr.github.io/</code> <span class="glyphicon glyphicon-question-sign" aria-hidden="true" title="This is the local directory in which the code in this file was executed."> </span>
 </p>
 <p>
 This reproducible <a href="http://rmarkdown.rstudio.com">R Markdown</a> analysis was created with <a
@@ -359,16 +370,16 @@ This reproducible <a href="http://rmarkdown.rstudio.com">R Markdown</a> analysis
 <div class="panel panel-default">
 <div class="panel-heading">
 <p class="panel-title">
-<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree96b43b8584cf9d3c90c84000dba2b928616a6fa3targetblank96b43b8a"> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> <strong>Repository version:</strong> <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/96b43b8584cf9d3c90c84000dba2b928616a6fa3" target="_blank">96b43b8</a> </a>
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree2d46708e85c9360300606b087c3f2a791fee177btargetblank2d46708a"> <span class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> <strong>Repository version:</strong> <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/2d46708e85c9360300606b087c3f2a791fee177b" target="_blank">2d46708</a> </a>
 </p>
 </div>
-<div id="strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree96b43b8584cf9d3c90c84000dba2b928616a6fa3targetblank96b43b8a" class="panel-collapse collapse">
+<div id="strongRepositoryversionstrongahrefhttpsgithubcomcovid19suicidelsrcovid19suicidelsrgithubiotree2d46708e85c9360300606b087c3f2a791fee177btargetblank2d46708a" class="panel-collapse collapse">
 <div class="panel-body">
 <p>
 Great! You are using Git for version control. Tracking code development and connecting the code version to the results is critical for reproducibility.
 </p>
 <p>
-The results in this page were generated with repository version <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/96b43b8584cf9d3c90c84000dba2b928616a6fa3" target="_blank">96b43b8</a>. See the <em>Past versions</em> tab to see a history of the changes made to the R Markdown and HTML files.
+The results in this page were generated with repository version <a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/tree/2d46708e85c9360300606b087c3f2a791fee177b" target="_blank">2d46708</a>. See the <em>Past versions</em> tab to see a history of the changes made to the R Markdown and HTML files.
 </p>
 <p>
 Note that you need to be careful to ensure that all relevant files for the analysis have been committed to Git prior to generating the results (you can use <code>wflow_publish</code> or <code>wflow_git_commit</code>). workflowr only checks the R Markdown file, but you know if there are other scripts or data files that it depends on. Below is the status of the Git repository when the results were generated:
@@ -412,6 +423,40 @@ Message
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+<a href="https://github.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/blob/2d46708e85c9360300606b087c3f2a791fee177b/analysis/results.Rmd" target="_blank">2d46708</a>
+</td>
+<td>
+Lena Schmidt
+</td>
+<td>
+2021-06-18
+</td>
+<td>
+Updated review publication
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/covid19-suicide-lsr/covid19-suicide-lsr.github.io/bb3cb99fd9f92f58a60e03dfc0d9f484323fecf7/results.html" target="_blank">bb3cb99</a>
+</td>
+<td>
+L-ENA
+</td>
+<td>
+2020-06-12
+</td>
+<td>
+Build site.
+</td>
+</tr>
 <tr>
 <td>
 html
@@ -708,8 +753,16 @@ Customising to our review
 </div>
 </div>
 </div>
-<div id="holding-page-for-results" class="section level2">
-<h2>Holding page for results</h2>
+<div id="abstract-for-the-updated-living-review" class="section level2">
+<h2>Abstract for the updated living review</h2>
+<p>The latest living review update was published on June 18, 2021 via F1000 research: <a href="https://f1000research.com/articles/9-1097">The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review (version 2; peer review: 1 approved, 2 approved with reservations)</a>. Please cite as:</p>
+<blockquote>
+<p><font size="2" color="gray">Ann John, Emily Eyles, Roger T. Webb, Chukwudi Okolie, Lena Schmidt, Ella Arensman, Keith Hawton, Rory C. O’Connor, Nav Kapur, Paul Moran, Siobhan O’Neill, Luke A. McGuinness, Babatunde K. Olorisade, Dana Dekel, Catherine Macleod-Hall, Hung-Yuan Cheng, Julian P.T. Higgins, David Gunnell. The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review [version 2; peer review: 1 approved, 2 approved with reservations]. F1000Research 2021, 9:1097 (<a href="https://doi.org/10.12688/f1000research.25522.2" class="uri">https://doi.org/10.12688/f1000research.25522.2</a>) </font></p>
+</blockquote>
+<p>Background: The COVID-19 pandemic has caused considerable morbidity, mortality and disruption to people’s lives around the world. There are concerns that rates of suicide and suicidal behaviour may rise during and in its aftermath. Our living systematic review synthesises findings from emerging literature on incidence and prevalence of suicidal behaviour as well as suicide prevention efforts in relation to COVID-19, with this iteration synthesising relevant evidence up to 19th October 2020.</p>
+<p>Method: Automated daily searches feed into a web-based database with screening and data extraction functionalities. Eligibility criteria include incidence/prevalence of suicidal behaviour, exposure-outcome relationships and effects of interventions in relation to the COVID-19 pandemic. Outcomes of interest are suicide, self-harm or attempted suicide and suicidal thoughts. No restrictions are placed on language or study type, except for single-person case reports. We exclude one-off cross-sectional studies without either pre-pandemic measures or comparisons of COVID-19 positive vs. unaffected individuals.</p>
+<p>Results: Searches identified 6,226 articles. Seventy-eight articles met our inclusion criteria. We identified a further 64 relevant cross-sectional studies that did not meet our revised inclusion criteria. Thirty-four articles were not peer-reviewed (e.g. research letters, pre-prints). All articles were based on observational studies. There was no consistent evidence of a rise in suicide but many studies noted adverse economic effects were evolving. There was evidence of a rise in community distress, fall in hospital presentation for suicidal behaviour and early evidence of an increased frequency of suicidal thoughts in those who had become infected with COVID-19.</p>
+<p>Conclusions: Research evidence of the impact of COVID-19 on suicidal behaviour is accumulating rapidly. This living review provides a regular synthesis of the most up-to-date research evidence to guide public health and clinical policy to mitigate the impact of COVID-19 on suicide risk as the longer term impacts of the pandemic on suicide risk are researched.</p>
 </div>
 
 
@@ -733,7 +786,7 @@ footer is added to webpages before the MathJax javascript. -->
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
