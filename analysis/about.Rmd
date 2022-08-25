@@ -15,7 +15,7 @@ The review is jointly lead by researchers from the University of Bristol and Swa
 
 ## Involved groups and collaborations
 
-In Bristol, the work represents a collaboration between the [NIHR Applied Research Collaboration West](https://arc-w.nihr.ac.uk/) and the [NIHR Bristol Biomedical Research Centre](https://www.bristolbrc.nihr.ac.uk/), with the systems infrastructure developed by members of the [Bristol Appraisal and Review of Research group](http://www.bristol.ac.uk/population-health-sciences/centres/cresyda/barr/). 
+In Bristol, the work is a collaboration between the [NIHR Applied Research Collaboration West](https://arc-w.nihr.ac.uk/) and the [NIHR Bristol Biomedical Research Centre](https://www.bristolbrc.nihr.ac.uk/), with the systems infrastructure developed by members of the [Bristol Appraisal and Review of Research group](http://www.bristol.ac.uk/population-health-sciences/centres/cresyda/barr/). 
 
 In Swansea, the work is an activity of the [Suicide and Self Harm Satellite](https://cmd.cochrane.org/satellites) of the Cochrane Common Mental Disorders Group.
 
