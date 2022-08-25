@@ -24,3 +24,32 @@ There was no consistent evidence of a rise in suicide but many studies noted adv
 
 Conclusions:  Research evidence of the impact of COVID-19 on suicidal behaviour is accumulating rapidly. This living review provides a regular synthesis of the most up-to-date research evidence to guide public health and clinical policy to mitigate the impact of COVID-19 on suicide risk as the longer term impacts of the pandemic on suicide risk are researched. 
 
+## Living review updates
+We continue our daily reference retrieval and monitoring of relevant publications. The figures below are visualisations of the current, living state of our database. These results are updated regularly and include unpublished and non-peer-reviewed information. For an overview of current publications, please see the tab 'Publications' on this website. 
+
+This figure shows the papers we included after fulltext screening. The figure is broken down by data source, showing contributions from databases, pre-print servers, and COVID-specific sources across our review's life-span.
+```{r, echo=FALSE}
+htmltools::includeHTML("figures/2022_interactive_includes_2022-06-07.html")
+
+```
+
+This figure shows our overall screening progress on title and abstracts.
+```{r, echo=FALSE}
+htmltools::includeHTML("figures/2022_interactive_screening_2022-06-07.html")
+
+```
+
+The following figures are indications of the current state of research, as surveyed by our living evidence updates.
+This interactive map shows countries of origin of the papers included in our project database.
+```{r, echo=FALSE}
+htmltools::includeHTML("figures/world_Countries_2022-06-06.html")
+
+```
+
+This plot shows outcomes discussed in our included papers.This living review evolved in parallel to the pandemic, thus leading to changes in inclusion criteria that affect study types and outcomes during the past years. Please refer to the website section 'Publications' for more information.
+
+<img src="figures/pie_Outcomes_2022-06-06.png" alt="" width = "80%">
+
+This plot shows study types of the papers included in our project database. 
+
+<img src="figures/pie_Study_Type_2022-06-06.png" alt="" width = "80%">
