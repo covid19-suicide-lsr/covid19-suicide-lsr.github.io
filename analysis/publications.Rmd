@@ -7,7 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Publication of our living systematic review
+## Full publications of our living systematic review
 
 The latest living review update was published on June 18, 2021 via F1000 research. This updated version replaced the previous versions of this living review: [The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: update of living systematic review (version 2; peer review: 1 approved, 2 approved with reservations)](https://f1000research.com/articles/9-1097). Please cite as:
 
@@ -19,6 +19,26 @@ The review protocol was published via F1000 research : [The impact of the COVID-
 
 > <font size="2" color="gray">John, A; Okolie, C; Eyles, E; Webb, RT; Schmidt, L; McGuiness, LA; Olorisade, BK; Arensman, E; Hawton, K; Kapur, N; Moran, P; O'Connor, RC; O'Neill, S; Higgins, JPT; Gunnell, D. The impact of the COVID-19 pandemic on self-harm and suicidal behaviour: protocol for a living systematic review [version 1; peer review: 1 approved with reservations]. F1000Research 2020, 9:644 (https://doi.org/10.12688/f1000research.24274.1)</font> 
 
+
+## Our research for Covid-19 and impacts on mental health: publications using data from the living review
+
+We published an analysis of our dataset with respect to suicide in low-and middle-income countries, in the form of a systematic review : [Suicide and self-harm in low-and middle-income countries during the COVID-19 pandemic: A systematic review](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000282). Please cite as:
+
+> <font size="2" color="gray">Knipe, D., John, A., Padmanathan, P., Eyles, E., Dekel, D., Higgins, J., Bantjes, J., Dandona, R., Macleod-Hall, C., McGuinness, L., Schmidt, L., Webb, R. and Gunnell, D., 2022. Suicide and self-harm in low- and middle- income countries during the COVID-19 pandemic: A systematic review. PLOS Global Public Health, 2(6), p.e0000282.</font> 
+
+We published an analysis of our dataset with respect to suicide and SARS-CoV-2 infection, in the form of a systematic review : [SARS-CoV-2 infection and the risk of suicidal and self-harm thoughts and behaviour: a systematic review](https://journals.sagepub.com/doi/pdf/10.1177/07067437221094552). Please cite as:
+
+> <font size="2" color="gray">Sinyor, M., Zaheer, R., Webb, R., Knipe, D., Eyles, E., Higgins, J., McGuinness, L., Schmidt, L., Macleod-Hall, C., Dekel, D., Gunnell, D. and John, A., 2022. SARS-CoV-2 Infection and the Risk of Suicidal and Self-Harm Thoughts and Behaviour: A Systematic Review. The Canadian Journal of Psychiatry, p.070674372210945.</font> 
+
+We published an analysis of our dataset with respect to suicidal behaviour among health and social care workers, in the form of a systematic review : [Systematic review of the impact of the COVID-19 pandemic on suicidal behaviour amongst health and social care workers across the world](https://www.sciencedirect.com/science/article/pii/S2666915321001931). Please cite as:
+
+> <font size="2" color="gray">Eyles, E., Moran, P., Okolie, C., Dekel, D., Macleod-Hall, C., Webb, R., Schmidt, L., Knipe, D., Sinyor, M., McGuinness, L., Arensman, E., Hawton, K., O'Connor, R., Kapur, N., O'Neill, S., Olorisade, B., Cheng, H., Higgins, J., John, A. and Gunnell, D., 2021. Systematic review of the impact of the COVID-19 pandemic on suicidal behaviour amongst health and social care workers across the world. Journal of Affective Disorders Reports, 6, p.100271.</font> 
+
+We did an analysis of our dataset with respect to self-harm and healthcare service utilisation, in the form of a systematic review. This paper is currently available as pre-print : [The impact of the COVID-19 pandemic on health service utilisation following self-harm: a systematic review](https://www.medrxiv.org/content/10.1101/2022.01.26.22269901v1). 
+
+
+## Other publications and data associated with the living review project
+
 The review was registered prospectively on PROSPERO on May 1st 2020 under [CRD42020183326](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=183326):
 
 > <font size="2" color="gray">Ann John, David Gunnell, Julian Higgins, Emily Eyles, Luke McGuinness, Chukwudi Okolie, Kazeem Olorisade, Lena Schmidt. The impact of the Covid-19 pandemic on self-harm and suicidal behaviour: a living systematic review. PROSPERO 2020 CRD42020183326. Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020183326</font>
@@ -26,11 +46,6 @@ The review was registered prospectively on PROSPERO on May 1st 2020 under [CRD42
 The code for out screening and literature retrieval application is available from [mcguinlu's GitHub repository](https://github.com/mcguinlu/COVID_suicide_living) or as release on [zenodo](https://zenodo.org/record/3871366#.XteMf-fTU2w). Please cite as:
 
 > <font size="2" color="gray">Luke McGuinness and Lena Schmidt. mcguinlu/COVID_suicide_living: Initial Release (Version v1.0.0). Zenodo 2020. Available from: http://doi.org/10.5281/zenodo.3871366</font> 
-
-## Related research for Covid-19 and impacts on mental health
-
-This section will give an overview of related relevant research and links to the respective projects.
-
 
 ```{r}
 
